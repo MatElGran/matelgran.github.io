@@ -2,7 +2,7 @@ title: 157io
 description: Crafting web for users
 google_analytics: 
 show_downloads: true
-remote_theme: daattali/beautiful-jekyll 
+remote_theme: chesterhow/tale
 
 gems:
   - jekyll-mentions
