@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+---
+
 # Salut !
 
 Vous êtes sur le site (en rénovation) de Mathieu Le Tiec.
