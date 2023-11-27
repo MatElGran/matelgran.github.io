@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-# COACHING POUR LES PARTCULIERS et pour les ENTREPRISES
+# COACHING POUR LES PARTICULIERS et pour les ENTREPRISES
 ## C’est quoi le coaching ?
 ### C’est quoi le coaching ?
 #### C’est quoi le coaching ?
