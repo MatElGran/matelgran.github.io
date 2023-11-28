@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 # Mathieu Le Tiec - independent software engineer
