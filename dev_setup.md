@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Development setup"
 date: 2021-01-11 13:13:13 -0000
 ---
