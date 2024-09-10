@@ -1,3 +1,11 @@
+---
+tags:
+  - Reading notes
+  - Ruby
+  - Syntax
+  - Gotchas
+---
+
 # Ruby blocks and anonymous positional arguments
 
 From [https://noelrappin.com/blog/2024/01/better-know-positional-arguments/](https://noelrappin.com/blog/2024/01/better-know-positional-arguments/)
