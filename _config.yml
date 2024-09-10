@@ -2,7 +2,7 @@ title: 157io
 description: Crafting web for users
 google_analytics: 
 show_downloads: true
-remote_theme: eiswayi/the-plain
+remote_theme: heiswayi/the-plain
 
-gems:
+plugins:
   - jekyll-mentions
