@@ -1,6 +1,6 @@
 ---
+category: Reading notes
 tags:
-  - Reading notes
   - Ruby
   - Syntax
   - Gotchas
